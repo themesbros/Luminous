@@ -1,0 +1,1261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Luminous 1.0\n"
+"POT-Creation-Date: 2016-02-25 13:56+0100\n"
+"PO-Revision-Date: 2016-02-25 13:56+0100\n"
+"Last-Translator: Themesbros <contact@themesbros.com>\n"
+"Language-Team: ThemesBros <contact@themesbros.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../header.php:57 ../inc/theme-customizer-setup.php:78
+#: ../inc/theme-customizer-setup.php:232 ../sidebar/pre-footer.php:22
+msgid "30 Lincoln Center Plaza New York, NY"
+msgstr ""
+
+#: ../footer.php:14
+msgid "Copyright &#169;"
+msgstr ""
+
+#: ../footer.php:16
+msgid "All rights reserved."
+msgstr ""
+
+#: ../inc/widget-work-hours.php:9
+msgid "Displays your work hours."
+msgstr ""
+
+#: ../inc/widget-work-hours.php:12
+msgid "Luminous - Work Hours"
+msgstr ""
+
+#: ../inc/widget-work-hours.php:29 ../inc/widget-popular-posts.php:33
+#: ../inc/widget-newsletter.php:76
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widget-work-hours.php:34
+msgid "Short text:"
+msgstr ""
+
+#: ../inc/widget-work-hours.php:39
+msgid "Monday To Friday Text:"
+msgstr ""
+
+#: ../inc/widget-work-hours.php:43
+msgid "Monday To Friday Work Hours:"
+msgstr ""
+
+#: ../inc/widget-work-hours.php:48
+msgid "Saturday Text:"
+msgstr ""
+
+#: ../inc/widget-work-hours.php:53
+msgid "Saturday Work Hours:"
+msgstr ""
+
+#: ../inc/widget-work-hours.php:58
+msgid "Sunday Text:"
+msgstr ""
+
+#: ../inc/widget-work-hours.php:62
+msgid "Sunday Work Hours:"
+msgstr ""
+
+#: ../inc/widget-popular-posts.php:8
+msgid "Displays most popular posts."
+msgstr ""
+
+#: ../inc/widget-popular-posts.php:13
+msgid "Popular Posts"
+msgstr ""
+
+#: ../inc/widget-popular-posts.php:38
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/widget-popular-posts.php:44
+msgid "Display post date?"
+msgstr ""
+
+#: ../inc/widget-popular-posts.php:48
+msgid "Choose Categories:"
+msgstr ""
+
+#: ../inc/widget-popular-posts.php:102 ../sidebar/primary.php:23
+#: ../sidebar/subsidiary.php:42
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/widget-popular-posts.php:161 ../content/attachment-image.php:21
+#: ../content/content.php:9 ../content/content.php:34
+msgid "Off"
+msgstr ""
+
+#: ../inc/theme-setup.php:101
+msgid "2 Columns: Content / Sidebar"
+msgstr ""
+
+#: ../inc/theme-setup.php:111
+msgid "2 Columns: Sidebar / Content"
+msgstr ""
+
+#: ../inc/theme-setup.php:121
+msgid "1 Column"
+msgstr ""
+
+#: ../inc/theme-setup.php:138
+msgctxt "nav menu location"
+msgid "Primary"
+msgstr ""
+
+#: ../inc/theme-setup.php:153
+msgctxt "sidebar"
+msgid "Primary"
+msgstr ""
+
+#: ../inc/theme-setup.php:154
+msgid ""
+"The main sidebar. It is displayed on either the left or right side of the "
+"page based on the chosen layout."
+msgstr ""
+
+#: ../inc/theme-setup.php:161
+msgctxt "sidebar"
+msgid "Footer"
+msgstr ""
+
+#: ../inc/theme-setup.php:162
+msgid ""
+"A sidebar located in the footer of the site. Optimized for one, two, three "
+"or four widgets (and multiples thereof)."
+msgstr ""
+
+#: ../inc/theme-setup.php:312 ../inc/theme-customizer-setup.php:1090
+msgid "Our Company Headquarters"
+msgstr ""
+
+#: ../inc/theme-setup.php:483
+msgid "Name"
+msgstr ""
+
+#: ../inc/theme-setup.php:488
+msgid "Email"
+msgstr ""
+
+#: ../inc/theme-setup.php:493
+msgid "Website"
+msgstr ""
+
+#: ../inc/theme-setup.php:499
+msgid "Your message"
+msgstr ""
+
+#: ../inc/theme-setup.php:773 ../inc/theme-customizer-setup.php:549
+msgid "A REAL TIME-SAVER"
+msgstr ""
+
+#: ../inc/theme-setup.php:774 ../inc/theme-customizer-setup.php:550
+msgid "FREE SUPPORT"
+msgstr ""
+
+#: ../inc/theme-setup.php:775 ../inc/theme-customizer-setup.php:551
+msgid "NO ROCKET SCIENCE"
+msgstr ""
+
+#: ../inc/theme-setup.php:776 ../inc/theme-customizer-setup.php:552
+msgid "SOME CORE FEATURES"
+msgstr ""
+
+#: ../inc/theme-setup.php:864 ../inc/theme-setup.php:957
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/theme-setup.php:883 ../inc/theme-customizer-setup.php:818
+msgid "Customers"
+msgstr ""
+
+#: ../inc/theme-setup.php:884 ../inc/theme-customizer-setup.php:819
+msgid "Online sales"
+msgstr ""
+
+#: ../inc/theme-setup.php:885 ../inc/theme-customizer-setup.php:820
+msgid "Retailers"
+msgstr ""
+
+#: ../inc/theme-setup.php:886 ../inc/theme-customizer-setup.php:821
+msgid "Years in business"
+msgstr ""
+
+#: ../inc/theme-setup.php:919
+msgid "You need to create tables first in plugin."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:399
+#: ../inc/class-tgm-plugin-activation.php:3021
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:400
+#: ../inc/class-tgm-plugin-activation.php:2824
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1873
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2159
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2162
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2178
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2181
+msgid "External Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2184
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2201
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2205
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2207
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2213
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2216
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2219
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2227
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2275
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:2278
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:2281
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:2363
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2371
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2379
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2391
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2414
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2428
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2429
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2430
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2434
+msgid "Version"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2435
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2483
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2487
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2492
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2595
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2601
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2604
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2635
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2637
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2673
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2675
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3020
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3354
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3356
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3357
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3361
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3363
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3367
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3369
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/mailchimp.php:83
+msgid "Incorrect API key."
+msgstr ""
+
+#: ../inc/mailchimp.php:87
+#, php-format
+msgid "Please %screate list%s in order to continue."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:34
+msgid "Icon Before Site Title"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:45
+msgid "Header Options"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:55 ../inc/theme-customizer-setup.php:198
+msgid "Show address?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:70 ../inc/theme-customizer-setup.php:224
+msgid "Address Icon"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:83 ../inc/theme-customizer-setup.php:237
+msgid "Your Address"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:94 ../inc/theme-customizer-setup.php:248
+msgid "Show contact info?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:109 ../inc/theme-customizer-setup.php:274
+msgid "Contact Icon"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:122 ../inc/theme-customizer-setup.php:287
+msgid "Your Contact Info:"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:133
+msgid "Show Social Profiles In Header?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:134
+msgid "If you want to hide particular link, leave the field blank."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:156
+#, php-format
+msgid "%s URL:"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:166
+msgid "Pre-Footer Options"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:175
+msgid "Show Social Profiles In Footer?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:182
+msgid "GET SOCIAL"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:187
+msgid "Social Title"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:205 ../sidebar/pre-footer.php:26
+#: ../sidebar/pre-footer.php:48
+msgid "OUR ADDRESS"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:210 ../inc/theme-customizer-setup.php:260
+#: ../inc/theme-customizer-setup.php:471 ../inc/theme-customizer-setup.php:714
+#: ../inc/theme-customizer-setup.php:887 ../inc/theme-customizer-setup.php:941
+#: ../inc/theme-customizer-setup.php:1095
+msgid "Title"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:255 ../sidebar/pre-footer.php:92
+msgid "EMERGENCY CALL"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:298
+msgid "Show Back To Top Button?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:310
+msgid "Front Page"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:311
+msgid ""
+"In order to use these options, you must first go to \"Static Front Page\", "
+"and select \"A static Page\". Under \"Front page\" select the page you want "
+"to display on front page. Now go to this page (Dashboard / Pages / Page) and "
+"on the right side, under \"Page Attributes / Template\" select \"Front Page"
+"\". Go back here and set your options. "
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:317
+#: ../inc/theme-customizer-setup.php:1193
+msgid "Slider"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:327
+msgid "Display slider?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:340
+msgid "Sliding Transition"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:343
+msgid "Fade"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:344
+msgid "Horizontal"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:345
+msgid "Vertical"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:355 ../inc/theme-customizer-setup.php:656
+msgid "Slide automatically?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:368 ../inc/theme-customizer-setup.php:669
+msgid "Pause between slides"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:386
+msgid "Slide Image"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:398
+msgid "Slide Title"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:408
+msgid "Slide Text"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:418
+msgid "Button 1 Text"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:428
+msgid "Button 1 URL"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:438
+msgid "Button 2 Text"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:448
+msgid "Button 2 URL"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:458
+msgid "Slider Footer"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:460
+msgid ""
+"Here you can set bottom part of the slider. It can contain up to 4 items, "
+"but it will also work with less."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:482
+msgid "Short Text"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:492
+#: ../inc/theme-customizer-setup.php:1194
+msgid "Services"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:502
+msgid "Display services?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:509
+msgid "Why choose us?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:514
+msgid "Services Title"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:520 ../template-parts/services.php:13
+msgid "Sed ut perspiciatis unde omnis iste natus bulka"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:525
+msgid "Services Subtitle"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:537
+msgid "Services Columns"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:538
+msgid "Number of columns per row"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:575
+msgid "Service Icon"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:588
+msgid "Service Title"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:599
+msgid "Service Text"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:609
+#: ../inc/theme-customizer-setup.php:1195
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:611 ../template-parts/portfolio.php:49
+#, php-format
+msgid ""
+"In order to use this section fully you need to install %sCustom Content "
+"Portfolio%s plugin."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:622
+msgid "Display portfolio?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:629 ../template-parts/portfolio.php:12
+msgid "FEATURED WORKS"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:634
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:640 ../template-parts/portfolio.php:13
+msgid "Some of our recent projects"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:645
+msgid "Portfolio Subtitle"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:684
+msgid "Number of items to show"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:692
+#: ../inc/theme-customizer-setup.php:1196
+msgid "Latest Posts"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:702
+msgid "Display latest posts?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:709 ../template-parts/posts.php:16
+msgid "LATEST FROM BLOG"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:720 ../template-parts/posts.php:17
+msgid "Freshest news from our blog"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:725 ../inc/theme-customizer-setup.php:898
+#: ../inc/theme-customizer-setup.php:952
+msgid "Subtitle"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:736
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:747
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:748
+msgid ""
+"Choose specific category to show posts from, or leave at \"All Categories\" "
+"to show latest posts from all categories."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:760
+msgid "Display post default image?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:772
+msgid "Number of words to show:"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:784
+msgid "Columns Number"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:785
+msgid "In how many columns to display posts?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:797
+#: ../inc/theme-customizer-setup.php:1197
+msgid "Count To"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:807
+msgid "Display count to section?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:832
+msgid "Number to count from"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:843
+msgid "Number to count to"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:854
+msgid "Text"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:864 ../inc/theme-customizer-setup.php:882
+#: ../inc/theme-customizer-setup.php:1198 ../template-parts/tables.php:13
+msgid "Pricing Tables"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:866 ../template-parts/tables.php:45
+#, php-format
+msgid ""
+"In order to use this section, you must install %sResponsive Pricing Table%s "
+"plugin."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:875
+msgid "Display pricing tables"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:893 ../template-parts/tables.php:14
+msgid "Our hosting plans & plans"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:910
+msgid "Select pricing tables you want to show."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:918
+#: ../inc/theme-customizer-setup.php:1199
+msgid "Team"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:920 ../template-parts/team.php:48
+#, php-format
+msgid ""
+"In order to use this section, you must install %sOur Team Showcase%s plugin."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:929
+msgid "Display team?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:936 ../template-parts/team.php:12
+msgid "MEET OUR TEAM"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:947 ../template-parts/team.php:13
+msgid "Some of the best experts in the field"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:964
+msgid "Team Category"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:975
+msgid "Number of team members to show"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:983
+#: ../inc/theme-customizer-setup.php:1200
+msgid "Call To Action"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:993
+msgid "Display call to action?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1000 ../template-parts/cta.php:17
+msgid "DISCOVER A BETTER WAY OF WORKING"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1005
+msgid "Call to action text"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1011 ../template-parts/cta.php:18
+msgid "SIGN UP NOW"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1016
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1027
+msgid "Button URL"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1035
+#: ../inc/theme-customizer-setup.php:1201
+msgid "Google Map"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1045
+msgid "Display Google Map?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1057
+msgid "Latitude"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1068
+msgid "Longitude"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1080
+msgid "Zoom Level"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1107
+msgid "Use default or Luminous marker?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1110
+msgid "Luminous marker"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1111
+msgid "Default marker"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1118
+#: ../inc/theme-customizer-setup.php:1202
+msgid "Contact"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1120
+#, php-format
+msgid ""
+"In order to use this section fully you need to install %sContact Form 7%s "
+"plugin. If you want contact form to look the same as on Luminous demo, you "
+"need to copy the code from the textarea below, %screate new form%s, name it, "
+"paste the code to the editor and save it. Reload the customizer and select "
+"it under \"Select contact form below\"."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1132
+msgid "Display contact form?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1140
+msgid "Select the contact form you wish to use."
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1146
+msgid "Select contact form"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1152 ../template-parts/contact.php:12
+msgid "GET IN TOUCH"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1157
+msgid "Contact Title"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1163 ../template-parts/contact.php:13
+msgid "Have a question for us?"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1168
+msgid "Contact Subtitle"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1179
+msgid "Code"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1188
+msgid "Section Ordering"
+msgstr ""
+
+#: ../inc/theme-customizer-setup.php:1216
+msgid "Slot"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:9
+msgid "Displays Mailchimp newsletter form."
+msgstr ""
+
+#: ../inc/widget-newsletter.php:13 ../inc/widget-newsletter.php:110
+#: ../sidebar/subsidiary.php:51
+msgid "Newsletter"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:26
+msgid "Sign Up Today - Free"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:27 ../inc/widget-newsletter.php:111
+msgid "Get latest news directly to your inbox!"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:29 ../inc/widget-newsletter.php:112
+#: ../sidebar/subsidiary.php:54
+msgid "Sign Up"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:42
+msgid "Incorrect API key!"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:49
+msgid "Api Key:"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:52
+msgid "(Grab it here!)"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:64
+msgid "Select List:"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:81
+msgid "Subscribe Text:"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:87
+msgid "Subscribe Button Text:"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:164
+msgid ""
+"You've been added to our sign-up list. We have sent an email, asking you to "
+"confirm the same."
+msgstr ""
+
+#: ../inc/widget-newsletter.php:165
+msgid "There was an error. Please try again."
+msgstr ""
+
+#: ../inc/widget-newsletter.php:166
+msgid "That does not look like a valid email!"
+msgstr ""
+
+#: ../inc/widget-newsletter.php:177
+msgid "Your email address"
+msgstr ""
+
+#: ../inc/customizer-control-font-chooser.php:25
+msgid "Search icon"
+msgstr ""
+
+#: ../inc/customizer-control-font-chooser.php:26
+msgid "From all categories"
+msgstr ""
+
+#: ../comment/comment.php:8 ../comment/ping.php:6
+msgid "Permalink"
+msgstr ""
+
+#: ../comment/ping.php:5
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../template-parts/services.php:12
+msgid "WHY CHOOSE US"
+msgstr ""
+
+#: ../template-parts/posts.php:88
+msgid "Read Article"
+msgstr ""
+
+#: ../template-parts/contact.php:46
+#, php-format
+msgid ""
+"In order to use this section fully you need to install %sContact Form 7%s "
+"plugin."
+msgstr ""
+
+#: ../misc/comments-nav.php:5
+msgctxt "comments navigation"
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../misc/comments-nav.php:9
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: ../misc/comments-nav.php:12
+msgctxt "comments navigation"
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../misc/comments-error.php:6
+#, php-format
+msgid "Comments are closed, but %strackbacks%s and pingbacks are open."
+msgstr ""
+
+#: ../misc/comments-error.php:13
+msgid "Comments are closed."
+msgstr ""
+
+#: ../misc/loop-nav.php:5
+msgid "Previous"
+msgstr ""
+
+#: ../misc/loop-nav.php:6
+msgid "Next"
+msgstr ""
+
+#: ../library/inc/template-general.php:55
+msgid "http://wordpress.org"
+msgstr ""
+
+#: ../library/inc/template-post.php:219
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ""
+
+#: ../library/inc/functions-attr.php:202
+#, php-format
+msgctxt "sidebar aria label"
+msgid "%s Sidebar"
+msgstr ""
+
+#: ../library/inc/functions-attr.php:235
+#, php-format
+msgctxt "nav menu aria label"
+msgid "%s Menu"
+msgstr ""
+
+#: ../library/inc/functions-attr.php:476
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: ../library/inc/functions-attr.php:601
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: ../library/inc/functions-head.php:140
+#, php-format
+msgid "%1$s Page %2$s"
+msgstr ""
+
+#: ../content/portfolio_project.php:19
+msgid "Author"
+msgstr ""
+
+#: ../content/portfolio_project.php:27
+msgid "Client"
+msgstr ""
+
+#: ../content/portfolio_project.php:38
+msgid "URL"
+msgstr ""
+
+#: ../content/error.php:4
+msgid "Nothing found"
+msgstr ""
+
+#: ../content/error.php:8
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: ../content/attachment-image.php:55
+msgid "Image Info"
+msgstr ""
+
+#: ../content/attachment-image.php:78
+msgid "Gallery"
+msgstr ""
+
+#: ../content/content.php:21
+msgid "Previous Post: %link"
+msgstr ""
+
+#: ../content/content.php:22
+msgid "Next Post: %link"
+msgstr ""
+
+#: ../content/content.php:43
+msgid "Read More"
+msgstr ""
+
+#: ../sidebar/primary.php:12
+msgid "About Author"
+msgstr ""
+
+#: ../sidebar/primary.php:32
+msgid "Recent Comments"
+msgstr ""
+
+#: ../sidebar/primary.php:43
+msgid "Meta"
+msgstr ""
+
+#: ../sidebar/primary.php:47
+msgid "XHTML Friends Network"
+msgstr ""
+
+#: ../sidebar/primary.php:47
+msgid "XFN"
+msgstr ""
+
+#: ../sidebar/primary.php:48
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: ../sidebar/primary.php:48
+msgid "WordPress"
+msgstr ""
+
+#: ../sidebar/primary.php:54
+msgid "Tags"
+msgstr ""
+
+#: ../sidebar/subsidiary.php:23
+msgid "Busines Hours"
+msgstr ""
+
+#: ../sidebar/subsidiary.php:24
+msgid "Our current working business hours, you can reach us any day!"
+msgstr ""
+
+#: ../sidebar/subsidiary.php:25
+msgid "Monday - Friday"
+msgstr ""
+
+#: ../sidebar/subsidiary.php:27
+msgid "Saturday"
+msgstr ""
+
+#: ../sidebar/subsidiary.php:29
+msgid "Sunday"
+msgstr ""
+
+#: ../sidebar/subsidiary.php:52
+msgid ""
+"Join the 1,000's of customers who have signed up, just enter your email "
+"address."
+msgstr ""
+
+#: ../sidebar/pre-footer.php:71
+msgid "We on"
+msgstr ""
+
+#: ../sidebar/pre-footer.php:88
+msgid "+1 212-564-5555 contact@example.com"
+msgstr ""
+
+#: ../sidebar/pre-footer.php:112 ../sidebar/pre-footer.php:113
+msgid "Back to top"
+msgstr ""
